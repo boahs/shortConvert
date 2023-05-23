@@ -1,0 +1,12 @@
+body{
+    text-align: center;
+}
+
+   @font-face{
+    font-family:youtube-sans-bold;
+    src: url(fonts/youtube-sans-bold.ttf)
+  }
+ 
+.headDescription{
+    font-family: youtube-sans-bold;
+}
