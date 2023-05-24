@@ -4,6 +4,5 @@ urlTransform = () => {
     let browserURL = '/watch?v=';
     let finishedURL = text.replace(shortURL, browserURL);
     document.getElementById("youtubeURL").value = finishedURL;
+    console.log('Thanks for using this application :)!')
 }
-
-//https://www.youtube.com/shorts/NW-69dtjl8w test data

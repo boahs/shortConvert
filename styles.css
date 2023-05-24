@@ -32,7 +32,7 @@ button {
   {
     opacity: 1;
     background-color: #00FF00;
-    border: 1px #99ccff solid;
+    border: 1px #000000 solid;
   }
   
   .button1:active
