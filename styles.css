@@ -1,5 +1,6 @@
 body{
     text-align: center;
+    background-color: #121212;
 }
 
    @font-face{
@@ -9,4 +10,33 @@ body{
  
 .headDescription{
     font-family: youtube-sans-bold;
+    color: white;
 }
+
+button {
+    background-color: #FF0000;
+    border: none;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 25px;
+    margin: 4px 2px;
+    font-family: youtube-sans-bold;
+  }
+
+  .button1 {border-radius: 40px;}
+
+  .button1:hover
+  {
+    opacity: 1;
+    background-color: #00FF00;
+    border: 1px #99ccff solid;
+  }
+  
+  .button1:active
+  {
+    background-color: #00FF00;
+    border: 1px #000000 solid;
+  }
